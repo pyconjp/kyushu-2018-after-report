@@ -15,8 +15,8 @@
 
 構成案::
 
-    * 開催地と開催概要 source/about_the_event.rst
-    * Keynoteのトーク source/keynote_talk.rst
+    * (???)開催地と開催概要 source/about_the_event.rst
+    * (???)Keynoteのトーク source/keynote_talk.rst
     * セション 
       * トラック1 
         (???)A-1: source/a-1.rst
