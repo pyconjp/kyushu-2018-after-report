@@ -1,1 +1,0 @@
-# kyushu-2018-after-report
