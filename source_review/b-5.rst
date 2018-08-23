@@ -1,0 +1,25 @@
+====================================
+トラック2
+====================================
+
+Artisanal Async Adventures
+====================================
+
+| 発表者: Jonas Obrist 
+| 言語: 英語/English
+| 時間: 15:05-15:35 (30min)
+| スライド: URL
+| レポート担当: James Cannon (http://www.jamescannon.net/)
+
+内容
+====
+
+Learning how and why async networking is useful by building a version of asyncio/Twisted/Tornado from scratch.
+
+感想
+====
+
+The talk by Jonas Obrist from HDE in Tokyo titled "Artisanal Async Adventures" was particularly noteworthy with its live-coding style.
+The talk went from a blank sheet to a fully-functioning socket server capable of taking multiple requests at once without blocking, all within the 30 minutes available for the talk, including time for questions.
+Testing of the code was also done live with multiple "clients" in the form of terminal tabs making requests to the server, and it was clearly demonstrated how requests from multiple clients would fail unless the "async" attribute was coded in.
+This live-coding style was quite impressive and it was interesting to see effect of the "async" capability being built up, line-by-line.
