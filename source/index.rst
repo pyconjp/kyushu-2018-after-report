@@ -14,25 +14,8 @@
     keynote_talk
     a-1
     a-2
-    a-3
-    a-4
-    a-5
-    a-6
-    a-7
-    b-1
-    b-2
-    b-3
-    b-4
     b-5
-    b-6
-    b-7
-    openning
-    ask_the_speaker
-    lunch_and_lt
-    job_board
-    photo_session
-    closing
-    social_gathering
+    events_summary
     pycon_kyushu_activity
     members
     after_all
