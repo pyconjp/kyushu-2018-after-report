@@ -13,7 +13,6 @@
     about_the_event
     keynote_talk
     a-1
-    a-2
     b-5
     events_summary
     pycon_kyushu_activity

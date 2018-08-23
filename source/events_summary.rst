@@ -1,3 +1,5 @@
+| レポート担当: James Cannon (http://www.jamescannon.net/)
+
 Opening
 =======
 
